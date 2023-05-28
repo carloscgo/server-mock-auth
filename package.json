@@ -1,0 +1,21 @@
+{
+  "name": "server-mock",
+  "version": "1.0.0",
+  "description": "Server Json",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=development node server.js",
+    "prod": "NODE_ENV=production node server.js"
+  },
+  "author": {
+    "name": "Carlos Camacho",
+    "email": "carloscgo123@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "clone": "2.1.2",
+    "cors": "2.8.5",
+    "json-server": "0.17.3",
+    "json-server-auth": "2.1.0"
+  }
+}

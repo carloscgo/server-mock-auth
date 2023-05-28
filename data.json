@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "carloscgo123@gmail.com",
+      "password": "$2a$10$Nfs2y/tfeRZ6L8QFW0NmPuKc.mVzzbc5DdJXhOyzVbg9VsKx6Gpme",
+      "firstName": "Carlos",
+      "lastName": "Camacho",
+      "id": 1
+    }
+  ]
+}
