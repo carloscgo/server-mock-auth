@@ -7,5 +7,23 @@
       "lastName": "Camacho",
       "id": 1
     }
+  ],
+  "websites": [
+    {
+      "id": 1,
+      "userId": 1,
+      "website_url": "https://website1.com",
+      "website_name": "website1",
+      "company_logo_url": "http://loremflickr.com/640/480",
+      "company_logo_name": "Brekke - Kassulke"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "website_url": "https://website2.com",
+      "website_name": "website2",
+      "company_logo_url": "http://loremflickr.com/640/480",
+      "company_logo_name": "O'Connell - Jacobs"
+    }
   ]
 }
