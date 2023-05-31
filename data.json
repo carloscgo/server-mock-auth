@@ -7,6 +7,14 @@
       "position": "Fullstack Developer",
       "password": "$2a$10$3izMr3jGxCgf2lvxdA5D6u/sgY7qmw80ZVLt6dgo08XSejNULsIYG",
       "id": 1
+    }, 
+    {
+      "email": "derek@mail.com",
+      "firstName": "Derek",
+      "lastName": "Iorg",
+      "position": "CEO",
+      "password": "$2a$10$3izMr3jGxCgf2lvxdA5D6u/sgY7qmw80ZVLt6dgo08XSejNULsIYG",
+      "id": 2
     }
   ],
   "websites": [
@@ -21,6 +29,22 @@
     {
       "id": 2,
       "userId": 1,
+      "website_url": "https://website2.com",
+      "website_name": "website2",
+      "company_logo_url": "http://loremflickr.com/640/480/business?lock=2",
+      "company_name": "O'Connell - Jacobs"
+    },
+    {
+      "id": 1,
+      "userId": 2,
+      "website_url": "https://website1.com",
+      "website_name": "website1",
+      "company_logo_url": "http://loremflickr.com/640/480/business?lock=1",
+      "company_name": "Brekke - Kassulke"
+    },
+    {
+      "id": 2,
+      "userId": 2,
       "website_url": "https://website2.com",
       "website_name": "website2",
       "company_logo_url": "http://loremflickr.com/640/480/business?lock=2",
